@@ -1,0 +1,21 @@
+# Core Data Science
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+xgboost
+gensim
+wordcloud
+tqdm
+
+# NLP
+nltk
+spacy
+
+# Backend API
+fastapi
+uvicorn
+joblib
+pydantic
+python-multipart
